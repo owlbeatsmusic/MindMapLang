@@ -11,7 +11,7 @@ import java.util.*;
 
 public class Main {
 
-    // .mml - mindmaplang
+    // .mml - mindmaplang hejsan
 
     static class Item {
         ArrayList<Integer> connections = new ArrayList<>();
